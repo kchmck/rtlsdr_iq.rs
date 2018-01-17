@@ -29,7 +29,7 @@ as a dependency in `Cargo.toml`:
 
 ```toml
 [dependencies]
-rtlsdr_iq = "1.1.0"
+rtlsdr_iq = "0.1.0"
 ```
 and importing it in the crate root:
 
